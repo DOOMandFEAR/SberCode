@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.htc.upm.vive-input-utility": {
+      "version": "1.12.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://npm-registry.vive.com"
+    },
     "com.htc.upm.wave.essence": {
       "version": "1.0.1",
       "depth": 0,
@@ -102,14 +109,14 @@
       }
     },
     "com.unity.xr.legacyinputhelpers": {
-      "version": "2.1.6",
+      "version": "2.1.4",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.management": {
-      "version": "3.2.17",
+      "version": "3.2.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
