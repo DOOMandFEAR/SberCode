@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
+    path: Assets/Scenes/Teleport.unity
+    guid: 98cd93ad4906d08469209e5489e8ec5f
+  - enabled: 1
     path: Assets/Scenes/temple.unity
     guid: abb6fc911822f0d448f795909c67d8bb
   m_configObjects:
