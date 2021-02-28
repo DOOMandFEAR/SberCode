@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/JsonNet.meta
 guid: 842206bd58ea30649b878cc39b3ede84
+=======
+guid: bc30a6802bc4a7f44a2d0d2d8168d77d
+>>>>>>> c4d0869965c905642a7866957d5ad9bad73babda:Assets/Materials/Hand Painted Seamless Wood Texture/Textures.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
